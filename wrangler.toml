@@ -1,4 +1,6 @@
 name = "thanks-w2"
 main = "src/index.js"
 compatibility_date = "2025-06-23"
-custom_domains = ["lior.ren"] 
+routes = [
+  { pattern = "lior.ren", custom_domain = true }
+]
