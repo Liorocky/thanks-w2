@@ -20,7 +20,7 @@ const htmlContent = `<!DOCTYPE html>
     <p style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 36pt;">Thank you W2 for your generous sponsorship</span></p>
     <p style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 36pt;">Merci W2 pour votre g&eacute;n&eacute;reux parrainage</span></p>
 
-    <img src="https://imgur.la/images/2025/06/23/c542d64fba5ec0e661e4a774de7a171f.jpg" alt="Additional Image">
+    <img src="https://imgur.la/images/2025/06/23/c542d64fba5ec0e661e4a774de7a171f.md.jpg" alt="Additional Image">
 
 </body>
 </html> `;
